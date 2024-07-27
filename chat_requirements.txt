@@ -1,0 +1,7 @@
+streamlit
+speechrecognition
+groq
+googletrans
+deep-translator
+gtts
+PyAudio
