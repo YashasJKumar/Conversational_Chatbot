@@ -3,6 +3,8 @@
 
 This is a conversational chatbot built using a combination of various tools and technologies to create a seamless and interactive experience. The chatbot utilizes speech recognition, natural language processing, translation, and text-to-speech capabilities to interact with users in their preferred languages.
 
+![image](https://i.pinimg.com/originals/aa/29/c3/aa29c30acb037c359bff34f60f6fb0df.gif)
+
 ## Features
 
 - **Speech Recognition**: Captures and transcribes user speech using OpenAI Whisper through Groq Cloud.
@@ -46,6 +48,7 @@ This is a conversational chatbot built using a combination of various tools and 
    - Sign up and set up an account on [Groq Cloud](https://console.groq.com/keys).
    - Obtain API keys and necessary credentials.
    - Update the Groq Cloud configuration in your project settings.
+   - Go to Line 18.on your main.py & place your API-KEY
 
 5. **Run the Streamlit App**
    ```sh
